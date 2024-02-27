@@ -53,5 +53,5 @@ El dataset original está disponible en [Kaggle](https://www.kaggle.com/datasets
 ## Notebooks de Análisis
 El repositorio también contiene dos archivos de Jupyter Notebook:
 
-1. Visualización+Reyes.ipynb: Este notebook contiene un análisis exploratorio de datos y visualización para los conjuntos el primer conjunto de datos.
-2. Trabajo_Final.ipynb: Este notebook contiene el trabajo final que integra análisis y conclusiones sobre los conjuntos de datos seleccionados.
+1. Visualización+Reyes.ipynb: Este notebook contiene un análisis exploratorio inicial de datos y visualización para el primer conjunto de datos.
+2. ProyectoDS_Partel_+Reyes.ipynb: Este notebook contiene el trabajo final que integra análisis númerico y grafico, para responder preguntas de interes propuestas para el primer conjunto de datos.
